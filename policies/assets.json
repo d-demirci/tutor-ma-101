@@ -1,0 +1,67 @@
+{
+    "1904.02441.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "MA_101",
+            "name": "1904.02441.pdf",
+            "org": "p1ngp0ng",
+            "revision": null,
+            "run": "2020_MA_101",
+            "tag": "c4x"
+        },
+        "displayname": "1904.02441.pdf",
+        "filename": "asset-v1:p1ngp0ng+MA_101+2020_MA_101+type@asset+block@1904.02441.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "deniz_profile.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "MA_101",
+            "name": "deniz_profile.png",
+            "org": "p1ngp0ng",
+            "revision": null,
+            "run": "2020_MA_101",
+            "tag": "c4x"
+        },
+        "displayname": "deniz_profile.png",
+        "filename": "asset-v1:p1ngp0ng+MA_101+2020_MA_101+type@asset+block@deniz_profile.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "p1ngp0ng",
+            "MA_101",
+            "thumbnail",
+            "deniz_profile-png.jpg",
+            null
+        ]
+    },
+    "malware_analysis.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "MA_101",
+            "name": "malware_analysis.png",
+            "org": "p1ngp0ng",
+            "revision": null,
+            "run": "2020_MA_101",
+            "tag": "c4x"
+        },
+        "displayname": "malware_analysis.png",
+        "filename": "asset-v1:p1ngp0ng+MA_101+2020_MA_101+type@asset+block@malware_analysis.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "p1ngp0ng",
+            "MA_101",
+            "thumbnail",
+            "malware_analysis-png.jpg",
+            null
+        ]
+    }
+}

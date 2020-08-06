@@ -1,0 +1,11 @@
+<course advanced_modules="[&quot;annotatable&quot;, &quot;word_cloud&quot;, &quot;split_test&quot;, &quot;lti_consumer&quot;]" banner_image="/static/malware_analysis.png" bypass_home="false" cert_html_view_enabled="true" cert_name_long="x86 Malware Analysis" cert_name_short="MA_101_CRT" cosmetic_display_price="100" course_image="malware_analysis.png" display_name="x86 Malware Analysis" enable_subsection_gating="true" graceperiod="" instructor_info="{&quot;instructors&quot;: []}" is_new="true" language="en" learning_info="[]" lti_passports="[&quot;bigbluebutton:bbb:f38840a789ce438631b9ba21be9638c1&quot;]" minimum_grade_credit="0.8" pdf_textbooks="[{&quot;chapters&quot;: [{&quot;url&quot;: &quot;/static/1904.02441.pdf&quot;, &quot;title&quot;: &quot;Chapter 1&quot;}], &quot;tab_title&quot;: &quot;Assembly Basics&quot;, &quot;id&quot;: &quot;8Assembly_Basics&quot;}]" start="&quot;2020-01-01T00:00:00+00:00&quot;" video_thumbnail_image="/static/malware_analysis.png">
+  <chapter url_name="7c45392547264942bb963826872863b5"/>
+  <chapter url_name="98984d1997584b61972e29ac1caca4d2"/>
+  <chapter url_name="49e432db2b7147a0899accb68a8d1947"/>
+  <chapter url_name="fec3d60ec3e04b01891b5fc41dc8fb3b"/>
+  <chapter url_name="a12fb89eda1f4dbfb8a5316c8d04299f"/>
+  <chapter url_name="640c4aa68f424ca796b2101dbd3bf959"/>
+  <chapter url_name="464bd20bdddd42bca8ee63985532a147"/>
+  <chapter url_name="de33f54869c54abd9b9726917635366b"/>
+  <wiki slug="p1ngp0ng.MA_101.2020_MA_101"/>
+</course>

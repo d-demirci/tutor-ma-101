@@ -1,0 +1,3 @@
+<vertical display_name="Classroom">
+  <lti_consumer url_name="8d1d8b9c061c444d800c834ed72a4c58" xblock-family="xblock.v1" ask_to_send_username="true" enable_processors="true" ask_to_send_email="true" display_name="Join Classroom" custom_parameters="[&#10;  &quot;welcome=Welcome to x86 Malware Analysis class, please follow the instructions.&quot;,&#10;  &quot;defaultWelcomeMessage=Any question related to online education platform should be addressed in the forum.&quot;,&#10;  &quot;defaultWelcomeMessageFooter=Enjoy your voyage.&quot;&#10;]" launch_target="new_window" launch_url="https://conference.p1ngp0ng.net/lti/tool" lti_id="bigbluebutton" button_text="Join Class"/>
+</vertical>

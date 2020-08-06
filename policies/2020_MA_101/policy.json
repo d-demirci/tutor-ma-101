@@ -1,0 +1,86 @@
+{
+    "course/2020_MA_101": {
+        "advanced_modules": [
+            "annotatable",
+            "word_cloud",
+            "split_test",
+            "lti_consumer"
+        ],
+        "banner_image": "/static/malware_analysis.png",
+        "bypass_home": false,
+        "cert_html_view_enabled": true,
+        "cert_name_long": "x86 Malware Analysis",
+        "cert_name_short": "MA_101_CRT",
+        "cosmetic_display_price": 100,
+        "course_image": "malware_analysis.png",
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        },
+        "display_name": "x86 Malware Analysis",
+        "enable_subsection_gating": true,
+        "graceperiod": "",
+        "instructor_info": {
+            "instructors": []
+        },
+        "is_new": true,
+        "language": "en",
+        "learning_info": [],
+        "lti_passports": [
+            "bigbluebutton:bbb:f38840a789ce438631b9ba21be9638c1"
+        ],
+        "minimum_grade_credit": 0.8,
+        "pdf_textbooks": [
+            {
+                "chapters": [
+                    {
+                        "title": "Chapter 1",
+                        "url": "/static/1904.02441.pdf"
+                    }
+                ],
+                "id": "8Assembly_Basics",
+                "tab_title": "Assembly Basics"
+            }
+        ],
+        "start": "2020-01-01T00:00:00Z",
+        "tabs": [
+            {
+                "course_staff_only": false,
+                "name": "Home",
+                "type": "course_info"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Course",
+                "type": "courseware"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Textbooks",
+                "type": "textbooks"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Discussion",
+                "type": "discussion"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Wiki",
+                "type": "wiki"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Progress",
+                "type": "progress"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Textbooks",
+                "type": "pdf_textbooks"
+            }
+        ],
+        "video_thumbnail_image": "/static/malware_analysis.png"
+    }
+}
